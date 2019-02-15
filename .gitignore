@@ -1,0 +1,23 @@
+# Config
+config
+
+# Logs
+log
+logs
+*.log
+
+# pdf
+.pdf
+
+# Dependency directory
+# https://docs.npmjs.com/cli/shrinkwrap#caveats
+node_modules
+
+# Debug log from npm
+npm-debug.log
+
+# Webpack source maps
+*.map
+
+# Local env file with credentials
+.env
